@@ -1,5 +1,5 @@
 # RAMOptimizer
 
-Want to lower RAM usage? Download the RAMOptimizer installer above to lower RAM usage.
-Has auto-updating feature and lowers your ram usage!
-More features coming later.
+RAMOptimizer lets you free up RAM! 
+<br />Comes with a beautiful UI, performance monitor and is updated through built-in self updater.
+<br />Download the installer from the releases tab
